@@ -19,11 +19,6 @@
 [Unicorn Electro - технологии](https://unicorn-electro.ru)  
 [Курсы T2 - Настройка устройства](https://cyberprot.ru/courses/)  
 
-
-# Полезные технологии  
-[Сервис ремонта телефонов](https://wcare.ru/)  
-
-
 # Protection Statioin  
 [Основной сайт PS](https://buyps.ru/)  
 [Сайт для Казахстана](https://protectionstation.kz/)  
@@ -33,4 +28,7 @@
 [Промо-ролик](https://buyps.ru/api/v1/promo-video2-mp4-content-type)  
 [Актуальная версия киоск приложения](http://buyps.ru/api/v1/apk)  
 [Торговые точки на карте Megafon + PS](https://protection-station.ru/megafon/map/) 
+
+# Полезные технологии  
+[Сервис ремонта телефонов](https://wcare.ru/)  
 

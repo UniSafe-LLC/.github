@@ -2,7 +2,7 @@
      alt="UniSafe Logo"
      width="300"> 
      
-# UniSafe
+# UniSafe  
 [Основной сайт UniSafe](https://unisafe.ru)  
 usafe.ru редирект → unisafe.ru  
 [Админ панель](https://unisafe-admin.ru)  
@@ -16,13 +16,23 @@ usafe.ru редирект → unisafe.ru
 [CloverMoney - финансовые решения](https://unisafe.ru/clovermoney)  
 [HiTech - защита гаджета от потери](https://unisafe.ru/hitech)  
 [Tech - разработка ПО для бизнеса](https://unisafe.ru/tech)  
+[UniSafe 360 - ИИ ассистент](https://unisafe360.ru)  
+[Unicorn Electro - технологии](https://unicorn-electro.ru)  
+[Курсы T2 - Настройка устройства](https://cyberprot.ru/courses/)  
 
-# Полезные технологии
+
+# Полезные технологии  
+[Сервис ремонта телефонов](https://wcare.ru/)  
 
 
-# Protection Statioin
+# Protection Statioin  
 [Основной сайт PS](https://buyps.ru/)  
+[Сайт для Казахстана](https://protectionstation.kz/)  
 [Панель управления PS Employee](https://ps-employee.ru/)  
+[Онлайн редактор лекал](https://ps-lycan.ru/editor/)  
+[Все инструкции по вырезанию пленок](https://protection-station.ru/support/choose_plotter.html)  
+[Промо-ролик](https://buyps.ru/api/v1/promo-video2-mp4-content-type)  
+[Актуальная версия киоск приложения](http://buyps.ru/api/v1/apk)  
 
 
 https://protection-station.ru/megafon/map/

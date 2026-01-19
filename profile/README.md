@@ -8,9 +8,6 @@
 [LTPT - финансовые решения](https://ltpt.ru/)  
 [Оформления возвратов](https://cyberprot.ru/refund/)   
 [Smart - настройка умного дома](https://unisafe.ru/smart/)  
-[AntivorWeb - веб версия приложения Антивор](https://unisafe.ru/antivor-web)  
-[CyberWeb - веб версия приложения Cyber Protection](https://unisafe.ru/cyber-web)  
-[ComboWeb - веб версия приложения Unisafe](https://unisafe.ru/combo-web)  
 [Alock - сайт блокировщика рекламы](https://unisafe.ru/alock)  
 [CloverMoney - финансовые решения](https://unisafe.ru/clovermoney)  
 [HiTech - защита гаджета от потери](https://unisafe.ru/hitech)  
@@ -31,4 +28,7 @@
 
 # Полезные технологии  
 [Сервис ремонта телефонов](https://wcare.ru/)  
+
+# Каннт
+[Настольные игры UniGames](https://uni-games.ru/)
 

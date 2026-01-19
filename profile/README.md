@@ -32,6 +32,5 @@
 [Все инструкции по вырезанию пленок](https://protection-station.ru/support/choose_plotter.html)  
 [Промо-ролик](https://buyps.ru/api/v1/promo-video2-mp4-content-type)  
 [Актуальная версия киоск приложения](http://buyps.ru/api/v1/apk)  
+[Торговые точки на карте Megafon + PS](https://protection-station.ru/megafon/map/) 
 
-
-https://protection-station.ru/megafon/map/

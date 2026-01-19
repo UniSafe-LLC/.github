@@ -14,17 +14,14 @@
 [Tech - разработка ПО для бизнеса](https://unisafe.ru/tech)  
 [UniSafe 360 - ИИ ассистент](https://unisafe360.ru)  
 [Unicorn Electro - технологии](https://unicorn-electro.ru)  
-[Курсы T2 - Настройка устройства](https://cyberprot.ru/courses/)  
 
 # Protection Statioin  
 [Основной сайт PS](https://buyps.ru/)  
 [Сайт для Казахстана](https://protectionstation.kz/)  
 [Панель управления PS Employee](https://ps-employee.ru/)  
 [Онлайн редактор лекал](https://ps-lycan.ru/editor/)  
-[Все инструкции по вырезанию пленок](https://protection-station.ru/support/choose_plotter.html)  
 [Промо-ролик](https://buyps.ru/api/v1/promo-video2-mp4-content-type)  
-[Актуальная версия киоск приложения](http://buyps.ru/api/v1/apk)  
-[Торговые точки на карте Megafon + PS](https://protection-station.ru/megafon/map/) 
+[Торговые точки на карте Megafon + PS](https://protection-station.ru/megafon/map/)  
 
 # Полезные технологии  
 [Сервис ремонта телефонов](https://wcare.ru/)  

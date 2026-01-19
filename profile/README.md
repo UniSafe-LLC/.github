@@ -4,7 +4,6 @@
      
 # UniSafe  
 [Основной сайт UniSafe](https://unisafe.ru)  
-usafe.ru редирект → unisafe.ru  
 [Админ панель](https://unisafe-admin.ru)  
 [LTPT - финансовые решения](https://ltpt.ru/)  
 [Оформления возвратов](https://cyberprot.ru/refund/)   

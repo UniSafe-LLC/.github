@@ -5,7 +5,9 @@
 # UniSafe
 [Основной сайт UniSafe](https://unisafe.ru)  
 usafe.ru редирект → unisafe.ru  
-[Админ панель](https://unisafe-admin.ru)
+[Админ панель](https://unisafe-admin.ru)  
+[LTPT - финансовые решения](https://ltpt.ru/)  
+[Оформления возвратов](https://cyberprot.ru/refund/)   
 [Smart - настройка умного дома](https://unisafe.ru/smart/)  
 [AntivorWeb - веб версия приложения Антивор](https://unisafe.ru/antivor-web)  
 [CyberWeb - веб версия приложения Cyber Protection](https://unisafe.ru/cyber-web)  

@@ -15,7 +15,7 @@
 [UniSafe 360 - ИИ ассистент](https://unisafe360.ru)  
 [Unicorn Electro - технологии](https://unicorn-electro.ru)  
 
-# Protection Statioin  
+# Protection Station  
 [Основной сайт PS](https://buyps.ru/)  
 [Сайт для Казахстана](https://protectionstation.kz/)  
 [Панель управления PS Employee](https://ps-employee.ru/)  
